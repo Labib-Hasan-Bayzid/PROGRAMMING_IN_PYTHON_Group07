@@ -1,0 +1,50 @@
+[
+    {
+        "bug_id": "BUG-001",
+        "title": "Login button not working",
+        "description": "Clicking login does nothing on the sign in page.",
+        "module": "Authentication",
+        "severity": "High",
+        "priority": "Critical",
+        "status": "Open",
+        "reporter": "Abdullah",
+        "assignee": "Rafi",
+        "created_date": "2026-03-20"
+    },
+    {
+        "bug_id": "BUG-002",
+        "title": "Profile image upload fails",
+        "description": "User receives upload failed message for jpg files.",
+        "module": "Profile",
+        "severity": "Medium",
+        "priority": "High",
+        "status": "In Progress",
+        "reporter": "Mim",
+        "assignee": "Sadia",
+        "created_date": "2026-03-22"
+    },
+    {
+        "bug_id": "BUG-003",
+        "title": "Dashboard loads slowly",
+        "description": "Dashboard takes more than 8 seconds to load after login.",
+        "module": "Dashboard",
+        "severity": "Low",
+        "priority": "Medium",
+        "status": "Resolved",
+        "reporter": "Nayeem",
+        "assignee": "Rafi",
+        "created_date": "2026-03-18"
+    },
+    {
+        "bug_id": "BUG-004",
+        "title": "Potato",
+        "description": "Big potato",
+        "module": "01",
+        "severity": "Low",
+        "priority": "Medium",
+        "status": "Open",
+        "reporter": "Labib",
+        "assignee": "Big_Boss",
+        "created_date": "2026-03-25"
+    }
+]
